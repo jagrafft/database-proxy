@@ -1,2 +1,9 @@
+*~
+.*~
+#*
+
+RootCA*
+
 node_modules
 ssl/localhost.csr
+

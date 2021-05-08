@@ -6,13 +6,14 @@
     "observable-database-proxy": "./bin/observable-database-proxy"
   },
   "dependencies": {
-    "JSONStream": "^1.3.5",
     "esm": "^3.2.25",
+    "JSONStream": "^1.3.5",
     "micro": "^9.3.4",
     "mysql": "^2.17.1",
     "open": "^6.3.0",
     "pg": "^7.11.0",
     "pg-query-stream": "^2.0.0",
+    "relationalai-sdk": "github:robbear/delve_client_sdk#release-1.0.4",
     "serialize-error": "^4.1.0",
     "snowflake-sdk": "^1.5.0",
     "yargs": "^13.2.4"
